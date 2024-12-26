@@ -7,3 +7,4 @@ test
 # Test signing
 # Test signing
 test signing setup
+test dedicated signing key
