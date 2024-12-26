@@ -14,3 +14,4 @@ test signing with matched key
 test signing with clean key
 test signing with clean key
 test signing with clean key
+test direct ssh signing
