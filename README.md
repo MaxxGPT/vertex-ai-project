@@ -15,3 +15,4 @@ test signing with clean key
 test signing with clean key
 test signing with clean key
 test direct ssh signing
+test after config cleanup
