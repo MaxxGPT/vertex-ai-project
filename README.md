@@ -11,3 +11,4 @@ test dedicated signing key
 test signing
 test signing
 test signing with matched key
+test signing with clean key
