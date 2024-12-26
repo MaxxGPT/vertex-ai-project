@@ -21,3 +21,8 @@ resource "google_storage_bucket" "data_bucket" {
   uniform_bucket_level_access = true
 }
 
+resource "google_vertex_ai_dataset" "bike_data" {
+  display_name        = "bike_data"
+  metadata_schema_uri = "gs://google-cloud-aiplatform/schema/dataset/metadata/tabular_1.0.0.yaml"
+  region              = "us-east1"
+}
