@@ -9,3 +9,4 @@ test
 test signing setup
 test dedicated signing key
 test signing
+test signing
