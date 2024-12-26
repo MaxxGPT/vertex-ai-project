@@ -8,3 +8,4 @@ test
 # Test signing
 test signing setup
 test dedicated signing key
+test signing
